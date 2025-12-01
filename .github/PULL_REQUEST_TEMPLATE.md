@@ -1,37 +1,34 @@
-# Pull Request Template
+## Pull Request Template
 
-**Important:** Please review the contributing guidelines in `.github/CONTRIBUTING.md` before submitting your Pull Request.
+### Overview
 
-**Be sure to resolve any conflicts before merging.**
+Provide a brief summary of the changes proposed in this pull request.
 
-## 1. PR Checklist
+### Related Issues
 
-*   [ ] I have read and followed the contributing guidelines.
-*   [ ] My changes address the issue described in the linked issue (if any).
-*   [ ] My code adheres to the project's coding standards and principles.
-*   [ ] I have added or updated tests to cover my changes.
-*   [ ] All new and existing tests pass.
-*   [ ] My code has been formatted and linted.
-*   [ ] I have updated the documentation where necessary.
-*   [ ] I have considered the security implications of my changes.
+*   [Link to related issue(s), if applicable]
 
-## 2. Description
+### Changes
 
-Provide a clear and concise description of the changes introduced in this Pull Request.
+*   [List of changes made]
 
-*   **What:** (Briefly explain what was changed.)
-*   **Why:** (Explain the motivation behind these changes. Link to an issue if applicable.)
-*   **How:** (Describe the approach taken to implement the changes.)
+### Testing
 
-## 3. Related Issues
+*   [Describe the testing performed to ensure the changes are correct and do not introduce regressions. Include steps to reproduce the tests.]
 
-*   Closes #[issue-number]
-*   Ref #123
+### Documentation
 
-## 4. Screenshots/Recordings (If applicable)
+*   [Indicate if any documentation changes are needed and where. If not, state "No documentation changes are needed."]
 
-For UI changes, please provide screenshots or recordings demonstrating the updated functionality.
+### Checklist
 
-## 5. Notes for Reviewers
-
-Add any specific points you'd like reviewers to focus on, or any context that might be helpful for understanding the changes.
+*   [ ] I have read the [CONTRIBUTING.md](https://github.com/chirag127/CloudCostControl-Global-FreeTier-SaaS-PaaS-IaaS-Awesome-List/blob/main/.github/CONTRIBUTING.md) document.
+*   [ ] I have updated the documentation accordingly.
+*   [ ] I have added tests to cover my changes.
+*   [ ] All tests pass.
+*   [ ] My code follows the project's style guidelines.
+*   [ ] I have performed a self-review of my own code.
+*   [ ] I have commented my code, particularly in hard-to-understand areas.
+*   [ ] I have made corresponding changes to the documentation.
+*   [ ] My changes generate no new warnings.
+*   [ ] Any dependent changes have been merged and published in downstream modules.
